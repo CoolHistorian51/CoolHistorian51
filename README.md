@@ -172,4 +172,4 @@ The nickname Port City is self-explanitory. It  is the only port in Alabama.</p>
 <h4>Hurricane Katrinia</h4>
 <p id = "Hurricane-Katrinia">Hurricane Katrinia was a catigory five hurricane. Most people think of Katrinia and think of New Orleans. It wasn't like only New Orleans was hit. Half or more of the city lost power. Flash flooding, millions were affected by this hurricane, not only in Mobile or Alabama, but the whole Gulf Coast. </p>
 <h1>Author's Note</h1>
-<p id ="AN">I am bad at grammar. Please excuse my bad spelling. The places and names all should be correct. Thank you for all who read through out this website. It is my first and i hope evryone likes it.</p>
+<p id ="AN">I am bad at grammar. Please excuse my bad spelling. The places and names all should be correct. Thank you for all who read through out this website. It is my first and i hope everyone likes it.</p>
